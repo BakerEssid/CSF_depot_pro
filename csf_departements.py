@@ -7,6 +7,7 @@ def afficher_departements():
 
 
 
+
     print("Départements CSF :")
 
     for dep in departements:
