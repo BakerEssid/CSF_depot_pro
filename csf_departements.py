@@ -5,8 +5,7 @@ def afficher_departements():
         "Formation"
     ]
 
-    
-
+    print ("Bienvenue chez CSF")
     print("Départements CSF :")
 
     for dep in departements:
