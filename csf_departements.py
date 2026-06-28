@@ -6,7 +6,7 @@ def afficher_departements():
     ]
 
     print ("Acceuil chez CSF")
-
+    
     print("Départements CSF :")
 
     for dep in departements:
